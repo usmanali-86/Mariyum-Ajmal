@@ -78,7 +78,7 @@ const skillCategories: SkillCategory[] = [
 const experience: ExperienceItem[] = [
   {
     icon: Briefcase,
-    role: " senior Frontend Engineer",
+    role: " Senior Frontend Engineer",
     company: "i2c Inc. — Fintech",
     time: "Apr 2023 — Present",
     description:
@@ -86,7 +86,7 @@ const experience: ExperienceItem[] = [
   },
   {
     icon: Briefcase,
-    role: " seniorFrontend Engineer",
+    role: " SeniorFrontend Engineer",
     company: "Soft Enterprise",
     time: "May 2022 — Oct 2022",
     description:
@@ -189,7 +189,7 @@ export function About() {
               </h2>
 
               <p className="mx-auto mt-4 max-w-2xl text-sm leading-7 text-muted-foreground sm:mt-5 sm:text-base sm:leading-8 md:text-lg">
-               senior Frontend Engineer with{" "}
+               Senior Frontend Engineer with{" "}
                 <span className="font-semibold text-foreground">
                   4+ years of professional experience
                 </span>{" "}

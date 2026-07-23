@@ -142,22 +142,7 @@ export function Hero() {
         <div className="relative z-10 mx-auto grid w-full max-w-7xl items-center gap-12 px-4 pb-16 sm:px-6 sm:pb-20 md:grid-cols-2 md:gap-12 md:px-8 md:pb-24 lg:gap-20">
           {/* Hero content */}
           <div className="order-2 text-center md:order-1 md:text-left">
-            {/* Availability badge */}
-            {/* <div
-              className="hero-fade-up inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary/5 px-3.5 py-2 text-[10px] font-semibold uppercase tracking-[0.14em] text-primary backdrop-blur-sm sm:px-4 sm:text-xs"
-              style={
-                {
-                  "--animation-delay": "0.05s",
-                } as CSSProperties
-              }
-            >
-              <span className="relative flex h-2 w-2 shrink-0">
-                <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-primary opacity-75" />
-                <span className="relative inline-flex h-2 w-2 rounded-full bg-primary" />
-              </span>
-
-              Available for new opportunities
-            </div> */}
+          
 
             {/* Main heading */}
             <h1
@@ -174,7 +159,7 @@ export function Hero() {
               </span>
 
               <span className="mt-1 block text-foreground/90 sm:mt-2">
-                Frontend Engineer
+               Senior Frontend Engineer
               </span>
             </h1>
 

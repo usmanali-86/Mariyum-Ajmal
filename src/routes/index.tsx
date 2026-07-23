@@ -12,10 +12,10 @@ import { Toaster } from "@/components/ui/sonner";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Mariyum Ajmal Khan — Frontend Engineer" },
-      { name: "description", content: "Frontend Engineer with 4+ years building scalable React, TypeScript & Node.js applications. Based in Lahore, available worldwide." },
-      { property: "og:title", content: "Mariyum Ajmal Khan — Frontend Engineer" },
-      { property: "og:description", content: "Portfolio of Mariyum Ajmal Khan — Frontend Engineer specializing in React, TypeScript & scalable web apps." },
+      { title: "Mariyum Ajmal Khan —Senior Frontend Engineer" },
+      { name: "description", content: "Senior Frontend Engineer with 4+ years building scalable React, TypeScript & Node.js applications. Based in Lahore, available worldwide." },
+      { property: "og:title", content: "Mariyum Ajmal Khan — Senior Frontend Engineer" },
+      { property: "og:description", content: "Portfolio of Mariyum Ajmal Khan — Senior Frontend Engineer specializing in React, TypeScript & scalable web apps." },
     ],
     links: [
       { rel: "preconnect", href: "https://fonts.googleapis.com" },
